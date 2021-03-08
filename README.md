@@ -11,12 +11,14 @@ Of specific note, Steve may want to look at a different set of stocks in the fut
   - Daily Volume
   - Yearly Return
 - All Green Energy Stocks (N =12)
-  - Daily Volume
+  - 2017 & 2018 Daily Volume/Yearly Return
   - Yearly Return 
   - Automated buttons that will run the macro automatically for any year identified. 
 - In preparation for a larger data set analysis, Steve would like to know how fast his VBA code will compile the results. Therefore we will add a script that will calculate how long the code takes to execute and output the elapsed time in a message box
 
 # Results 
+
+## DAQO stock analysis
 
 ![Table 1- DAQO Daily Volume and Yearly Return.png](https://github.com/sholathompson/stock-analysis/blob/main/Table%201-%20DAQO%20Daily%20Volume%20and%20Yearly%20Return.png)
 
