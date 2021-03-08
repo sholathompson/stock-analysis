@@ -18,5 +18,5 @@ Of specific note, Steve may want to look at a different set of stocks in the fut
 
 # Results 
 
-
+![Table 1- DAQO Daily Volume and Yearly Return.png](
 As Table 1, illustrates, DAQO yearly return dropped 63% indicating that this is a risky investment for his parents at this time.
